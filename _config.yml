@@ -1,8 +1,8 @@
 title: Conference 2020
 description: >-
   Conference of a random organization on January 1st in Zurich, Switzerland
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: "/open-5g-forum" # the subpath of your site, e.g. /blog
+url: "https://open5g.info" # the base hostname & protocol for your site, e.g. https://example.com
 
 # Build settings
 markdown: kramdown
@@ -70,3 +70,8 @@ conference:
     url: '/program'
     time_steps: 15
     show_alltimes: true
+
+plugins:
+  - jekyll-include-cache
+
+remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@2.0.0"
