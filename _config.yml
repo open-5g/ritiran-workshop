@@ -1,6 +1,6 @@
-title: Conference 2020
+title: Open 5G Forum - Fall 2021
 description: >-
-  Conference of a random organization on January 1st in Zurich, Switzerland
+  Open 5G Forum - A virtual event on open and open source software for 5G - The Fall 2021 edition focuses on RAN software
 baseurl: "/open-5g-forum" # the subpath of your site, e.g. /blog
 url: "https://open5g.info" # the base hostname & protocol for your site, e.g. https://example.com
 
@@ -27,9 +27,9 @@ collections:
   speakers:
     output: true
     permalink: /:collection/:title/
-  rooms:
-    output: true
-    permalink: /:collection/:title/
+  # rooms:
+  #   output: true
+  #   permalink: /:collection/:title/
 
 defaults:
   - scope:
@@ -42,11 +42,11 @@ defaults:
       type: speakers
     values:
       layout: speaker
-  - scope:
-      path: ""
-      type: rooms
-    values:
-      layout: room
+  # - scope:
+  #     path: ""
+  #     type: rooms
+  #   values:
+  #     layout: room
 
 
 conference:
@@ -60,9 +60,9 @@ conference:
   # Navigation bar
   navigation:
     logo:
-      name: Digital Society Switzerland
+      name: Institute for the Wireless Internet of Things
       # img: ''
-      url: 'https://digitale-gesellschaft.ch/'
+      url: 'https://www.northeastern.edu/wiot/'
     links:
       - name: Program
         relative_url: /program/
@@ -70,16 +70,14 @@ conference:
         relative_url: /talks/
       - name: Speakers
         relative_url: /speakers/
-      - name: Location
-        relative_url: /location/
-      - name: Previous Editions
-        menu:
-          - name: 2020 (current)
-            disabled: true
-          - name: 2019
-            relative_url: /2019/
-          - name: 2018
-            relative_url: /2018/
+      # - name: Future Editions
+      #   menu:
+      #     - name: 2021 (current)
+      #       disabled: true
+      #     - name: 2019
+      #       relative_url: /2019/
+      #     - name: 2018
+      #       relative_url: /2018/
 
   # Main landing page
   main:
@@ -88,23 +86,26 @@ conference:
     links:
       - name: Program
         relative_url: /program/
-      - name: How to get there
-        relative_url: /location/
-      - name: Tickets
-        disabled: true
-        absolute_url: ''
+      - name: Sponsors
+        relative_url: /sponsors/
+      - name: Registration
+        disabled: false
+        absolute_url: /registration/
 
   # Information boxes
   info_bars:
-    - title: Welcome to the Conference Theme for Jekyll!
+    - title: Welcome to the Open 5G Forum website!
       color: primary
       main_only: true
       text: |
-        The Theme was originally made for the [Winterkongress](https://www.digitale-gesellschaft.ch/kongress/), a yearly conference of the [Digital Society Switzerland](https://digitale-gesellschaft.ch/).
+        The Open 5G Forum is a virtual event on open and open source software for the 5G ecosystem. 
+        The Fall 2021 edition focuses on RAN software, with talks and tutorials on the major
+        open and open source projects for programmable, virtualized, and software-defined RANs.
 
-        ---
+        The event will include hands-on tutorial that will demonstrate how to use open source 
+        RAN software on [Colosseum](https://northeastern.edu/colosseum/), the world largest hardware-in-the-loop wireless network 
+        emulator.
 
-        See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.
     - text: This is just some random content for demonstration purposes.
       color: warning
       pages_only: true
@@ -135,24 +136,24 @@ conference:
     # Show first and last name
     show_firstname: true
 
-  location:
-    # URL of location / room overview page
-    url: '/location'
+  # location:
+  #   # URL of location / room overview page
+  #   url: '/location'
 
-    # Disable links to locations
-    hide: false
-    map:
-      # show map
-      enable: true
-      # initial map center point
-      home_coord: 47.37808, 8.53935
-      # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
-      # The following do match the Bootstrap design not too badly:
-      #   - Hydda.Full
-      #   - Thunderforest.Neighbourhood
-      #   - Esri.WorldTopoMap
-      map_provider: "OpenStreetMap.Mapnik"
-      default_zoom: 17
+  #   # Disable links to locations
+  #   hide: true
+  #   map:
+  #     # show map
+  #     enable: true
+  #     # initial map center point
+  #     home_coord: 47.37808, 8.53935
+  #     # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
+  #     # The following do match the Bootstrap design not too badly:
+  #     #   - Hydda.Full
+  #     #   - Thunderforest.Neighbourhood
+  #     #   - Esri.WorldTopoMap
+  #     map_provider: "OpenStreetMap.Mapnik"
+  #     default_zoom: 17
 
   program:
     # URL of program page
