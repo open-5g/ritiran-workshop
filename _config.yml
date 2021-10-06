@@ -1,6 +1,6 @@
 title: Open 5G Forum - Fall 2021
 description: >-
-  Open 5G Forum - A virtual event on open and open source software for 5G - The Fall 2021 edition focuses on RAN software
+  Open 5G Forum - A virtual event on open and open source software for 5G - Fall 2021 edition (RAN software)
 baseurl: "/open-5g-forum" # the subpath of your site, e.g. /blog
 url: "https://open5g.info" # the base hostname & protocol for your site, e.g. https://example.com
 
@@ -110,9 +110,9 @@ conference:
         RAN software on [Colosseum](https://northeastern.edu/colosseum/), the world largest hardware-in-the-loop wireless network 
         emulator.
 
-    - text: This is just some random content for demonstration purposes.
-      color: warning
-      pages_only: true
+    # - text: This is just some random content for demonstration purposes.
+    #   color: warning
+    #   pages_only: false
 
   # Live indications
   live:

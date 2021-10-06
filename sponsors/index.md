@@ -2,4 +2,4 @@
 layout: page
 ---
 
-This event is sponsored by.
+Sponsors will be announced soon.
