@@ -70,6 +70,10 @@ conference:
         relative_url: /talks/
       - name: Speakers
         relative_url: /speakers/
+      - name: Registration
+        relative_url: /registration/
+      - name: Sponsors
+        relative_url: /sponsors/
       # - name: Future Editions
       #   menu:
       #     - name: 2021 (current)
@@ -89,8 +93,8 @@ conference:
       - name: Sponsors
         relative_url: /sponsors/
       - name: Registration
-        disabled: false
-        absolute_url: /registration/
+        # disabled: false
+        relative_url: /registration/
 
   # Information boxes
   info_bars:
