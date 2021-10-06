@@ -1,7 +1,7 @@
 ---
 name: O-RAN Tutorial
 speakers:
-  - Rajaran Sivaraj
+  - Rajarajan Sivaraj
 categories:
   - Tutorial
 ---
