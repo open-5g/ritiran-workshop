@@ -1,7 +1,7 @@
 ---
-name: Tolga Philip
-first_name: Tolga
-last_name: Philip
+name: Oguz Sanay
+first_name: Oguz
+last_name: Sanay
 links:
   - name: Profile
     absolute_url: https://github.com
