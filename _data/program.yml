@@ -1,25 +1,37 @@
 days:
-- name: Monday
-  abbr: Mo
-  date: 2020-01-31
+- name: Tuesday
+  abbr: Tue
+  date: 2021-11-16
   rooms:
-  - name: Room A
+  - name: Virtual Room
     talks:
-      - name: Vim Impetus Placerat Cotidieque Ad
-        time_start: '12:00'
-        time_end: '12:45'
-      - name: Condimentum Vitae Sapien Pellentesque
-        time_start: '12:45'
-        time_end: '13:30'
-
-  - name: Room B
-    talks:
-      - name: Arcu Non Odio
-        time_start: '12:00'
+      - name: Keynote
+        time_start: '10:00'
+        time_end: '10:45'
+      - name: O-RAN Tutorial
+        time_start: '10:45'
+        time_end: '11:30'
+      - name: srsRAN Tutorial
+        time_start: '11:30'
         time_end: '13:00'
+      - name: Open RAN in Colosseum
+        time_start: '13:00'
+        time_end: '14:00'
 
-  - name: Room C
+- name: Wednesday
+  abbr: Wed
+  date: 2021-11-17
+  rooms:
+  - name: Virtual Room
     talks:
-      - name: Eu Nisl Nunc Mi Ipsum Faucibus
-        time_start: '13:30'
-        time_end: '14:30'
+      - name: OAI Tutorial
+        time_start: '10:00'
+        time_end: '11:30'
+      - name: Short Talks
+        time_start: '11:30'
+        time_end: '13:00'
+      - name: Panel
+        time_start: '13:00'
+        time_end: '14:00'
+
+
