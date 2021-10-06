@@ -60,7 +60,7 @@ conference:
   # Navigation bar
   navigation:
     logo:
-      name: Institute for the Wireless Internet of Things
+      name: Northeastern WIOT
       # img: ''
       url: 'https://www.northeastern.edu/wiot/'
     links:
@@ -124,9 +124,11 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: Cat A
+      - name: Keynote
         color: info
-      - name: Cat B
+      - name: Tutorial
+        color: success
+      - name: Short talks
         color: success
 
     # Hide icons on talk overview page
