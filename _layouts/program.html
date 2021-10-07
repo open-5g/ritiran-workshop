@@ -11,39 +11,34 @@
 
   {{ content }}
 
-  {%- if nbr_days > 1 %}
-    <ul class="nav justify-content-center mb-3 btn-group" id="day-list" role="tablist">
-      {%- for d in site.data.program.days -%}
-        {%- include partials/get_day_hash.html %}
-        <li class="nav-item" role="presentation">
-          <a class="nav-link btn btn-outline-secondary {%- if forloop.index == 1 %} active{% endif %}" id="tab-{{ day_hash }}" data-toggle="tab" {%- if d.date %} data-date="{{ d.date }}" {%- endif %} href="#{{ day_hash }}" role="tab" aria-controls="{{ day_hash }}" aria-selected="{% if forloop.index == 1 %}true{% else %}false{% endif %}">{{ day_name }}</a>
-        </li>
-      {%- endfor %}
-    </ul>
-    <div class="tab-content" id="day-content">
-  {%- endif %}
+  &nbsp;&nbsp;
 
   {%- for d in site.data.program.days -%}
     {%- if nbr_days > 1 -%}
       {%- include partials/get_day_hash.html %}
-      <div class="tab-pane {%- if forloop.index == 1 %} active{% endif %}" id="{{ day_hash }}" role="tabpanel" aria-labelledby="tab-{{ day_hash }}">
+      <div class="tab-pane {%- if forloop.index >= 1 %} active{% endif %}" id="{{ day_hash }}" role="tabpanel" aria-labelledby="tab-{{ day_hash }}">
     {%- endif %}
 
     <div class="sticky-top syncscroll overflow-hidden" name="sync-table">
-      <table class="table mb-0 mx-auto">
+      <table class="table mb-0 mx-auto" style="float: left;">
         <thead>
           <tr>
-            <th scope="col" class="col-title text-right">#<span class="invisible">I0</span></th>
+            {%- if d.num == 0 -%}
+              <th scope="col" class="col-title text-right">#<span class="invisible">I0</span></th>
+            {%- else -%}
+              <th scope="col" class="col-title text-right"><span class="invisible">0</span></th>
+            {%- endif -%}
+
             <th class="col-space p-0" scope="col"></th>
             {%- assign nbr_rooms = d.rooms | size -%}
             {%- for r in d.rooms -%}
               {%- assign room = site.rooms | where: 'name', r.name | first %}
               <th scope="col" class="text-center">
                 {%- if room.hide or site.conference.location.hide -%}
-                  {{- room.name -}}
+                  {{- d.name -}}
                 {%- else -%}
                   <a class="text-reset" href="{{ room.url | prepend: site.baseurl }}">
-                    {{- room.name -}}
+                    {{- d.name -}}
                   </a>
                 {%- endif -%}
               </th>
@@ -53,11 +48,7 @@
             {%- endfor %}
           </tr>
         </thead>
-      </table>
-    </div>
 
-    <div class="syncscroll overflow-y-hidden" name="sync-table">
-      <table class="table mx-auto">
         <tbody>
           {%- include partials/get_day_time.html -%}
 
@@ -94,15 +85,32 @@
             <tr>
 
               {%- if current_min == 0 -%}
-                <th scope="row" class="col-title text-right" style="z-index: {{ z-index-max }}">
-                  {{- current_time -}}
+                {%- if d.num == 0 -%}
+                  <th scope="row" class="col-title text-right" style="z-index: {{ z-index-max }}">
+                {%- else -%}
+                  <th scope="row" class="col-space text-right" style="z-index: {{ z-index-max }}">
+                {%- endif %}
+                  {%- if d.num == 0 -%}
+                    {{- current_time -}}
+                  {%- else -%}
+                     <span class="invisible">0</span>
+                  {%- endif %}
                 </th>
               {%- elsif site.conference.program.show_alltimes -%}
-                <th scope="row" class="col-title text-right text-muted font-weight-normal" style="z-index: {{ z-index-max }}">
-                  :{{ current_min }}
+                {%- if d.num == 0 -%}
+                  <th scope="row" class="col-title text-right text-muted font-weight-normal" style="z-index: {{ z-index-max }}">
+                    :{{ current_min }}
+                {%- else -%}
+                  <th scope="row" class="col-space" style="z-index: {{ z-index-max }}">
+                    <span class="invisible">0</span>
+                {%- endif %}
                 </th>
               {%- else -%}
-                <th scope="row" class="col-title" style="z-index: {{ z-index-max }}"></th>
+                {%- if d.num == 0 -%}
+                  <th scope="row" class="col-title" style="z-index: {{ z-index-max }}"></th>
+                {%- else -%}
+                  <th scope="row" class="col-space" style="z-index: {{ z-index-max }}"></th>
+                {%- endif %}
               {%- endif %}
               <td class="col-space p-0"></td>
 
@@ -146,6 +154,7 @@
                     {%- include partials/get_main_category.html -%}
                     <td rowspan="{{ talk_nbr_steps }}" class="alert alert-{{ main_cat_color }} shadow-sm overflow-hidden" style="z-index: {{ z-index-max | minus: i }}">
 
+
                       {%- assign live_button_styleclass = "mb-2" %}
                       {%- include partials/show_live_button.html %}
 
@@ -179,15 +188,8 @@
           {%- endfor %}
         </tbody>
       </table>
-    </div>
-
-    {%- if nbr_days > 1 %}
-      </div>
-    {%- endif -%}
   {%- endfor -%}
-  {%- if nbr_days > 1 %}
-    </div>
-  {%- endif -%}
+</div>
 
   {%- if site.conference.talks.main_categories %}
     <h5 class="mt-4">{{ site.data.lang[site.conference.lang].program.legend | default: "Caption" }}</h5>

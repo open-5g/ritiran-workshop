@@ -2,6 +2,7 @@ days:
 - name: Tuesday
   abbr: Tue
   date: 2021-11-16
+  num: 0
   rooms:
   - name: Virtual Room
     talks:
@@ -21,6 +22,7 @@ days:
 - name: Wednesday
   abbr: Wed
   date: 2021-11-17
+  num: 1
   rooms:
   - name: Virtual Room
     talks:
