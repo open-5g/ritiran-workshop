@@ -8,4 +8,4 @@ Mobile networks are transitioning from monolithic architectures, based on dedica
 
 The Open 5G Forum is a virtual event with talks and tutorials on *open* and *open source* software and frameworks for 5G and beyond. The goal is to engage experts, developers, and researchers to better understand the software for the 5G ecosystem. The tutorials will be developed as experiences on [Colosseum](colosseum.net), a publicly available software-defined wireless network emulator. Check out the program below, which includes speakers from the Open Networking Foundation, srsRAN, Eurecom, Northeastern University, Mavenir, VMware, and more.
 
-We also provide a companion website [open5g.info](open5g.info) with an annotated list of open source software for 5G, based on [this paper](https://www.sciencedirect.com/science/article/pii/S1389128620311786).
+We also provide a companion website [open5g.info](https://open5g.info) with an annotated list of open source software for 5G, based on [this paper](https://www.sciencedirect.com/science/article/pii/S1389128620311786).
