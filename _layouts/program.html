@@ -26,10 +26,14 @@
             {%- if d.num == 0 -%}
               <th scope="col" class="col-title text-right">#<span class="invisible">I0</span></th>
             {%- else -%}
-              <th scope="col" class="col-title text-right"><span class="invisible">0</span></th>
+              <th scope="col" class="col-empty"><span class="invisible">0</span></th>
             {%- endif -%}
 
-            <th class="col-space p-0" scope="col"></th>
+            {%- if d.num == 0 -%}
+              <th class="col-space p-0" scope="col"></th>
+            {%- else -%}
+              <th class="col-empty" scope="col"></th>
+            {%- endif -%}
             {%- assign nbr_rooms = d.rooms | size -%}
             {%- for r in d.rooms -%}
               {%- assign room = site.rooms | where: 'name', r.name | first %}
@@ -88,7 +92,7 @@
                 {%- if d.num == 0 -%}
                   <th scope="row" class="col-title text-right" style="z-index: {{ z-index-max }}">
                 {%- else -%}
-                  <th scope="row" class="col-space text-right" style="z-index: {{ z-index-max }}">
+                  <th scope="row" class="col-empty" style="z-index: {{ z-index-max }}">
                 {%- endif %}
                   {%- if d.num == 0 -%}
                     {{- current_time -}}
@@ -101,7 +105,7 @@
                   <th scope="row" class="col-title text-right text-muted font-weight-normal" style="z-index: {{ z-index-max }}">
                     :{{ current_min }}
                 {%- else -%}
-                  <th scope="row" class="col-space" style="z-index: {{ z-index-max }}">
+                  <th scope="row" class="col-empty" style="z-index: {{ z-index-max }}">
                     <span class="invisible">0</span>
                 {%- endif %}
                 </th>
@@ -109,10 +113,14 @@
                 {%- if d.num == 0 -%}
                   <th scope="row" class="col-title" style="z-index: {{ z-index-max }}"></th>
                 {%- else -%}
-                  <th scope="row" class="col-space" style="z-index: {{ z-index-max }}"></th>
+                  <th scope="row" class="col-empty" style="z-index: {{ z-index-max }}"></th>
                 {%- endif %}
               {%- endif %}
-              <td class="col-space p-0"></td>
+              {%- if d.num == 0 -%}
+                <td class="col-space p-0"></td>
+              {%- else -%}
+                <td class="col-empty"></td>
+              {%- endif %}
 
               {%- for r in d.rooms -%}
                 {%- assign room = site.rooms | where: 'name', r.name | first -%}

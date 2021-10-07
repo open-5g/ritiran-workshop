@@ -157,6 +157,12 @@ main.container img {
       width: 70px;
       min-width: 70px;
     }
+
+    &.col-empty {
+      width: 0px;
+      min-width: 0px;
+      max-width: 0px;
+    }
   }
 }
 
