@@ -137,29 +137,35 @@ main.container img {
   table-layout: fixed;
 
   // Columns define table width
-  width: auto;
+  width: 100%;
 
   // Column widths
   th, td {
     // Total available container width is 1110px
 
     // Width of columns with content (default)
-    width: 245px;
-    min-width: 245px;
+    width: 23%;
+    min-width: 23%;
 
     // Spacing between columns
     &.col-space {
-      width: 15px;
-      min-width: 15px;
+      width: 1%;
+      min-width: 1%;
     }
     // Width of first column containing timestamps
     &.col-title {
-      width: 70px;
-      min-width: 70px;
+      width: 3%;
+      min-width: 3%;
     }
 
-    &.col-empty {
-      width: 1px;
+    @media only screen and (max-width: 768px) {
+      width: 15%;
+      min-width: 15%;
+
+      &.col-title {
+        width: 6%;
+        min-width: 6%;
+      }
     }
   }
 }
