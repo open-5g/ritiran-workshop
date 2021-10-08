@@ -64,7 +64,7 @@
               <tr>
                 {%- if current_min == 0 -%}
                   <td scope="row" class="col-title text-right" style="z-index: {{ z-index-max }}">
-                    {{- current_time -}}
+                    <strong>{{- current_time -}}</strong>
                   </td>
                 {%- elsif site.conference.program.show_alltimes -%}
                   <td scope="row" class="col-title text-right text-muted font-weight-normal" style="z-index: {{ z-index-max }}">
