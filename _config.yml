@@ -61,7 +61,7 @@ conference:
   navigation:
     logo:
       name: Northeastern WIoT
-      img: 'NU_IoT_MonoN_RB.png'
+      img: 'NU_IoT_NLuxPlus_BRBB.png'
       url: 'https://www.northeastern.edu/wiot/'
     links:
       - name: Program
