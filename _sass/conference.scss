@@ -159,9 +159,7 @@ main.container img {
     }
 
     &.col-empty {
-      width: 0px;
-      min-width: 0px;
-      max-width: 0px;
+      width: 2px;
     }
   }
 }
