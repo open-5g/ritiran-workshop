@@ -4,7 +4,7 @@ speakers:
   - Rittwik Jana
   - Matti Hiltunen
   - Melike Erol-Kantarci
-  - More to be announced
+  - more to be announced
 categories:
   - Short Talks
 ---
