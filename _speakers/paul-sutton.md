@@ -5,4 +5,4 @@ last_name: Sutton
 hide: false
 ---
 
-TODO
+Bio to be added soon.

@@ -1,7 +1,7 @@
 days:
-- name: Tuesday
-  abbr: Tue
-  date: 2021-11-16
+- name: Wednesday
+  abbr: Wed
+  date: 2021-11-17
   num: 0
   rooms:
   - name: Virtual Room
@@ -19,9 +19,9 @@ days:
         time_start: '13:00'
         time_end: '14:00'
 
-- name: Wednesday
-  abbr: Wed
-  date: 2021-11-17
+- name: Thursday
+  abbr: Thu
+  date: 2021-11-18
   num: 1
   rooms:
   - name: Virtual Room
