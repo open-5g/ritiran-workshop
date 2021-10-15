@@ -133,7 +133,9 @@ conference:
       - name: Tutorial
         color: success
       - name: Short talks
-        color: success
+        color: secondary
+      - name: Panel
+        color: info
 
     # Hide icons on talk overview page
     hide_icons: false
