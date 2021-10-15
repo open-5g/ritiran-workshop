@@ -1,5 +1,5 @@
 days:
-- name: Wednesday
+- name: Wednesday 11/17
   abbr: Wed
   date: 2021-11-17
   num: 0
@@ -19,7 +19,7 @@ days:
         time_start: '13:00'
         time_end: '14:00'
 
-- name: Thursday
+- name: Thursday 11/18
   abbr: Thu
   date: 2021-11-18
   num: 1
