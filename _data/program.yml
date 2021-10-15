@@ -6,10 +6,10 @@ days:
   rooms:
   - name: Virtual Room
     talks:
-      - name: Keynote
+      - name: Open 5G Forum Keynote
         time_start: '10:00'
         time_end: '10:45'
-      - name: O-RAN Tutorial
+      - name: A tutorial on O-RAN and Open RAN
         time_start: '10:45'
         time_end: '11:30'
       - name: srsRAN Tutorial
