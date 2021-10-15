@@ -132,7 +132,7 @@ conference:
         color: info
       - name: Tutorial
         color: success
-      - name: Short talks
+      - name: Short Talks
         color: secondary
       - name: Panel
         color: info
