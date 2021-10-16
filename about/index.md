@@ -24,7 +24,7 @@ The Open 5G Forum is partially supported through an [ACM SIGMOBILE](https://www.
     <div style="width: 15%; display: inline-block;">
         <img src ="/open-5g-forum/assets/images/sigmobile-logo.png">
     </div>
-    <div style="width: 20%; display: inline-block;">
+    <div style="width: 25%; display: inline-block;">
         <img src ="/open-5g-forum/assets/images/NU_IoT_NLuxPlus_BRBB.png">
     </div>
 <!--     <div class="inline-block">
