@@ -12,7 +12,7 @@ This event is organized by a team at the Institute for the Wireless Internet of 
 
 - [Tommaso Melodia](https://ece.northeastern.edu/wineslab/tmelodia.php)
 - [Stefano Basagni](https://ece.northeastern.edu/fac-ece/basagni/people.html)
-- [Manu Gosain](https://coe.northeastern.edu/people/gosain-manu/)
+- [Abhimanyu (Manu) Gosain](https://coe.northeastern.edu/people/gosain-manu/)
 
 
 **Support** 
