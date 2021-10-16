@@ -32,7 +32,7 @@ The Open 5G Forum is partially supported through an [ACM SIGMOBILE](https://www.
     </div> -->
 </div>
 
-Additional partners and sponsors will be announced soon.
+Additional partners and supporters will be announced soon.
 
 
 
