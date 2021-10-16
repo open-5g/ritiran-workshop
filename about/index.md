@@ -21,15 +21,15 @@ This event is organized by a team at the Institute for the Wireless Internet of 
 The Open 5G Forum is partially supported through an [ACM SIGMOBILE](https://www.sigmobile.org/grav/) grant and by the U.S. National Science Foundation grant CNS-1925601.
 
 <div id="banner">
-    <div class="inline-block" style="width: 20%">
+    <div class="inline-block" style="width: 15%">
         <img src ="/open-5g-forum/assets/images/sigmobile-logo.png">
     </div>
-<!--     <div class="inline-block">
-        <img src ="img2.jpg">
+    <div class="inline-block" style="width: 20%">
+        <img src ="/open-5g-forum/assets/images/NU_IoT_NLuxPlus_BRBB.png">
     </div>
     <div class="inline-block">
         <img src ="img3.jpg">
-    </div> -->
+    </div>
 </div>
 
 Additional partners and sponsors will be announced soon.
