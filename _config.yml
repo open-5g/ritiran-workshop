@@ -55,7 +55,7 @@ conference:
   lang: en
 
   # Show theme errors:
-  show_errors: True
+  show_errors: false
 
   # Navigation bar
   navigation:
