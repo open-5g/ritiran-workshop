@@ -11,6 +11,9 @@
     {{ speaker.first_name }} {{ speaker.last_name }}
   </h1>
 
+  {% if speaker.picture %}
+    <img src="/open-5g-forum/assets/images/speaker-pictures/{{speaker.picture}}" class="speaker-picture" alt="{{ speaker.name }}"/>   
+  {% endif %}
   {{ content }}
 
   {% include partials/get_link_types.html %}

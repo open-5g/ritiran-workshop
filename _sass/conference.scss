@@ -220,6 +220,12 @@ main.container img {
   }
 }
 
+.speaker-picture {
+  margin-left: 2%;
+  float: right; 
+  width: 150px; 
+}
+
 
 // Print
 @media print {
@@ -257,4 +263,8 @@ main.container img {
   .live-hide {
     display: inline-block !important;
   }
+}
+
+.text-justify {
+  text-align: justify;
 }
