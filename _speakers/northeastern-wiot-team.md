@@ -8,4 +8,3 @@ links:
 ---
 
 The WIoT team at the Open 5G Forum includes [Michele Polese](/open-5g-forum/speakers/michele-polese), [Leonardo Bonati](/open-5g-forum/speakers/leonardo-bonati), and [Salvatore D'Oro](/open-5g-forum/speakers/salvatore-d-oro).
-{: .text-justify}
