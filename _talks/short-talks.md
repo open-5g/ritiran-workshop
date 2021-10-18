@@ -1,6 +1,7 @@
 ---
 name: Open 5G Forum Short Talks
 speakers:
+  - Anupa Kelkar
   - Rittwik Jana
   - Matti Hiltunen
   - Melike Erol-Kantarci
