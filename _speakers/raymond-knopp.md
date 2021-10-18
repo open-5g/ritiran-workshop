@@ -2,6 +2,7 @@
 name: Raymond Knopp
 first_name: Raymond
 last_name: Knopp
+picture: raymond-knopp.png
 links:
   - name: Profile
     absolute_url: https://www.eurecom.fr/en/people/knopp-raymond

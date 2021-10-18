@@ -2,6 +2,7 @@
 name: Michele Polese
 first_name: Michele
 last_name: Polese
+picture: michele-polese.jpg
 links:
   - name: Profile
     absolute_url: https://polese.io
