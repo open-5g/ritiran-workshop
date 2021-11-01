@@ -5,9 +5,17 @@ speakers:
   - Rittwik Jana
   - Matti Hiltunen
   - Melike Erol-Kantarci
-  - more to be announced
+  - Vijay K. Shah
+  - David M. Johnson
 categories:
   - Short Talks
 ---
 
-This session will feature short talks from leading speakers in the Open 5G ecosystem. Topics and additional speakers will be added soon.
+This session will feature short talks from leading speakers in the Open 5G ecosystem.
+
+- [Anupa Kelkar](/open-5g-forum/speakers/anupa-kelkar) will present NVIDIA contributions in this space, including the NVIDIA Aerial platform
+- [Rittwik Jana](/open-5g-forum/speakers/rittwik-jana) will present VMware work and products for open 5G networks
+- [Matti Hiltunen](/open-5g-forum/speakers/matti-hiltunen) will give a perspective on the O-RAN Software Community open source RIC platform
+- [Melike Erol-Kantarci](/open-5g-forum/speakers/melike-erol-kantarci) will discuss ML and O-RAN-related work from the NETCORE Lab at University of Ottawa
+- [Vijay K. Shah](/open-5g-forum/speakers/vijay-shah) will present the activities of the NSF-funded Open AI Cellular (OAIC) project
+- [David M. Johnson](/open-5g-forum/speakers/david-m-johnson) will describe how the POWDER platform is contributing to software for O-RAN networks
