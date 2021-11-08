@@ -8,7 +8,6 @@ links:
     absolute_url: https://www.site.uottawa.ca/~merolka2/
 ---
 
-<strong>Bio.</strong>
 Melike Erol-Kantarci is Canada Research Chair in AI-enabled Next-Generation Wireless Networks and Associate Professor at the School of Electrical Engineering and Computer Science at the University of Ottawa. She is the founding director of the Networked Systems and Communications Research (NETCORE) laboratory. She is also a Faculty Affiliate at the Vector Institute, Toronto, and the Institute for Science, Society and Policy at University of Ottawa. She has over 150 peer-reviewed publications which have been cited over 6000 times and she has an h-index of 39. She has received numerous awards and recognitions. Recently, she received the 2020 Distinguished Service Award of the IEEE ComSoc Technical Committee on Green Communications and Computing. She was also named as N2Women Stars in Computer Networking and Communications in 2019. Dr. Erol-Kantarci has delivered 60+ keynotes, tutorials and panels around the globe and has acted as the general chair and technical program chair for many international conferences and workshops. Her main research interests are AI-enabled wireless networks, 5G and 6G wireless communications, smart grid and Internet of things. She is an IEEE ComSoc Distinguished Lecturer, IEEE Senior member and ACM Senior Member.
 
 <strong>Short talk abstract.</strong>
