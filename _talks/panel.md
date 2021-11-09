@@ -1,9 +1,11 @@
 ---
 name: Open 5G Forum Panel
 speakers:
-  - TBD
+  - Raymond Knopp
+  - Rittwik Jana
+  - Matti Hiltunen
 categories:
   - Panel
 ---
 
-Panelists and topics to be added soon.
+An live discussion on the ecosystem for open and open source 5G networks, and on how to promote software-driven approaches for the RAN.
