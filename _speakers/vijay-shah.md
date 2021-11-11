@@ -2,6 +2,7 @@
 name: Vijay K. Shah
 first_name: Vijay K.
 last_name: Shah
+picture: Vijay_Pic2.png
 links:
   - name: Profile
     absolute_url: https://mason.gmu.edu/~vshah22/
