@@ -18,7 +18,7 @@ This event is organized by a team at the Institute for the Wireless Internet of 
 **Support** 
 
 
-The Open 5G Forum is partially supported through an [ACM SIGMOBILE](https://www.sigmobile.org/grav/) grant and by the U.S. National Science Foundation grant CNS-1925601.
+The Open 5G Forum is partially supported through an [ACM SIGMOBILE](https://www.sigmobile.org/grav/) grant and by the U.S. National Science Foundation grant CNS-1925601. The Open 5G Forum is organized in cooperation with ACM.
 
 <div id="banner">
     <div style="width: 15%; display: inline-block;">
@@ -27,9 +27,9 @@ The Open 5G Forum is partially supported through an [ACM SIGMOBILE](https://www.
     <div style="width: 25%; display: inline-block;">
         <img src ="/open-5g-forum/assets/images/NU_IoT_NLuxPlus_BRBB.png">
     </div>
-<!--     <div class="inline-block">
-        <img src ="img3.jpg">
-    </div> -->
+    <div style="width: 25%; display: inline-block;">
+        <img src ="/open-5g-forum/assets/images/ACM-In-Cooperation_small.jpeg">
+    </div>
 </div>
 
 Additional partners and supporters will be announced soon.
