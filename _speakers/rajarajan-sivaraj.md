@@ -2,7 +2,7 @@
 name: Rajarajan Sivaraj
 first_name: Rajarajan
 last_name: Sivaraj
-picture: raj-sivaraj.jpeg
+picture: raj-sivaraj.jpg
 ---
 
 
