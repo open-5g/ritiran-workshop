@@ -2,7 +2,8 @@
 name: Rajarajan Sivaraj
 first_name: Rajarajan
 last_name: Sivaraj
+picture: raj-sivaraj.jpeg
 ---
 
 
-Bio to be added soon.
+Dr. Rajarajan (Raj) Sivaraj is a Director for RIC architecture and O-RAN standards at Mavenir at Dallas, Texas, where he has been working since Sept 2020. At Mavenir, he is responsible for the R&D, standardization and productization of the O-RAN-architected RAN Intelligent Controller function. He invented the first protocol design and the generic encoding scheme that enables the RAN intelligent Control function to "control" the RAN at an individual user-level that got adopted by O-RAN standards. He is also additionally involved in 5G RAN systems design, optimization, and characterization of system performance. Prior to Mavenir, he was a Senior Inventive Scientist with AT&T labs research based out of San Ramon in California, where he was involved in design and optimization of cellular RAN as well as cross-layer mobile networks. While at AT&T, he developed the first O-RAN RIC extensible applications that were successfully tested in a live 5G production network. Previously, he finished his PhD in Computer Science from University of California, Davis, in Dec 2016, where his thesis was focused on "Radio Resource Management for advanced OFDMA networks" and he was awarded an honors for his outstanding graduate research. He has published and patented about 20+ research works in this space in leading conferences and journals. He has also collaborated extensively in the industry, having worked with Microsoft Research, Intel labs, NEC Laboratories, Broadcom, etc. and has worked in 5 different countries USA, UK, France, Australia and India.
