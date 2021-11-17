@@ -2,9 +2,4 @@
   {{ talk.name }}
 {%- else -%}
   <a class="text-reset" href="{{ talk.url | prepend: site.baseurl }}">{{ talk.name }}</a>
-
-  {% if talk.slides %}
-    <a class="text-reset" href="{{ talk.slides | prepend: site.baseurl }}">Slides</a>
-  {% endif %}
-
 {%- endif -%}
