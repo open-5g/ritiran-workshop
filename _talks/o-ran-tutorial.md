@@ -4,7 +4,10 @@ speakers:
   - Rajarajan Sivaraj
 categories:
   - Tutorial
-slides: /assets/pdf/o-ran-tutorial-raj.pdf
+presentation_material:
+  - resource:
+    - resource_name: Slides
+    - resource_url: /assets/pdf/o-ran-tutorial-raj.pdf
 ---
 
 Rajarajan Sivaraj will describe the foundational principles of the O-RAN architecture, with details on interfaces, components, and standardization activities.
