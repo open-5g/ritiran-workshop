@@ -5,7 +5,7 @@ speakers:
 categories:
   - Tutorial
 presentation_material:
-  - resource:
+  resource:
     - resource_name: Slides
     - resource_url: /assets/pdf/o-ran-tutorial-raj.pdf
 ---
