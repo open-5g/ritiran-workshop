@@ -1,4 +1,4 @@
-{% if talk.slides %}
+{% if talk.presentation_material %}
   {%- for res in talk.presentation_material -%}
     <a class="text-reset" href="{{ res.resource_url | prepend: site.baseurl }}">{{ res.resource_name }}</a>
   {%- endfor -%}
