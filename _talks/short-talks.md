@@ -2,9 +2,9 @@
 name: Open 5G Forum Short Talks
 speakers:
   - Anupa Kelkar
-  - Rittwik Jana
-  - Matti Hiltunen
   - Melike Erol-Kantarci
+  - Matti Hiltunen
+  - Rittwik Jana
   - Vijay K. Shah
   - David M. Johnson
 categories:
