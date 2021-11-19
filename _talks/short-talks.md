@@ -10,8 +10,10 @@ speakers:
 categories:
   - Short Talks
 presentation_material:
+  - resource_name: Slides - Melike Erol-Kantarci
+    resource_url: /assets/pdf/slides-melike-erol-kantarci.pdf
   - resource_name: Slides - David M. Johnson
-    resource_url: /assets/pdf/o-ran-powder.pdf
+    resource_url: /assets/pdf/slides-david-johnson.pdf
 ---
 
 This session will feature short talks from leading speakers in the Open 5G ecosystem.
