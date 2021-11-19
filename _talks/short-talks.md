@@ -14,6 +14,8 @@ presentation_material:
     resource_url: /assets/pdf/slides-melike-erol-kantarci.pdf
   - resource_name: Slides - David M. Johnson
     resource_url: /assets/pdf/slides-david-johnson.pdf
+  - resource_name: Slides - Vijay K. Shah
+    resource_url: /assets/pdf/slides-vijay-shah.pdf
 ---
 
 This session will feature short talks from leading speakers in the Open 5G ecosystem.
