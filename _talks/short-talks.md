@@ -9,6 +9,9 @@ speakers:
   - David M. Johnson
 categories:
   - Short Talks
+presentation_material:
+  - resource_name: Slides - David M. Johnson
+    resource_url: /assets/pdf/o-ran-powder.pdf
 ---
 
 This session will feature short talks from leading speakers in the Open 5G ecosystem.
