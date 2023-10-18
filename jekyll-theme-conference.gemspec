@@ -10,12 +10,13 @@ Gem::Specification.new do |spec|
   spec.homepage      = "https://github.com/DigitaleGesellschaft/jekyll-theme-conference/"
   spec.license       = "MIT"
 
-  spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README)!i) }
+  # spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README)!i) }
 
   spec.add_runtime_dependency "jekyll"
 
   spec.add_development_dependency "bundler"
   spec.add_development_dependency "rake"
 
-  spec.add_development_dependency "sassc", "1.11.4"
+  # spec.add_development_dependency "sassc", "1.11.4"
+  spec.add_development_dependency "webrick"
 end
