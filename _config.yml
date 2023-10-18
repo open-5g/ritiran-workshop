@@ -4,8 +4,6 @@ description: >-
 baseurl: "/open-5g-forum" # the subpath of your site, e.g. /blog
 url: "https://open5g.info" # the base hostname & protocol for your site, e.g. https://example.com
 
-theme: jekyll-theme-conference
-
 # Build settings
 markdown: kramdown
 sass:
