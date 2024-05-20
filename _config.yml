@@ -64,15 +64,15 @@ conference:
       img: 'NU_IoT_NLuxPlus_BRBB.png'
       url: 'https://www.northeastern.edu/wiot/'
     links:
-      - name: Program
-        relative_url: /program/
-      - name: Talks
-        relative_url: /talks/
-      - name: Speakers
-        relative_url: /speakers/
-      - name: Registration
-        disabled: true
-        absolute_url: https://northeastern.zoom.us/meeting/register/tJUqce2tqzkiGNTo_xYruezi5Vv_A8O7rnug
+      - name: Call for Papers
+        relative_url: /cfp/
+      - name: TPC
+        relative_url: /tpc/
+      # - name: Speakers
+      #   relative_url: /speakers/
+      # - name: Registration
+      #   disabled: true
+      #   absolute_url: https://northeastern.zoom.us/meeting/register/tJUqce2tqzkiGNTo_xYruezi5Vv_A8O7rnug
       - name: About
         relative_url: /about/
       # - name: Future Editions
@@ -89,11 +89,15 @@ conference:
     # logo:
     #   img: ''
     links:
-      - name: Program
-        relative_url: /program/
-      - name: Registration
-        disabled: true
-        absolute_url: https://northeastern.zoom.us/meeting/register/tJUqce2tqzkiGNTo_xYruezi5Vv_A8O7rnug
+      - name: Call for Papers
+        relative_url: /cfp/
+      - name: TPC
+        relative_url: /tpc/
+      # - name: Program
+      #   relative_url: /program/
+      # - name: Registration
+      #   disabled: true
+      #   absolute_url: https://northeastern.zoom.us/meeting/register/tJUqce2tqzkiGNTo_xYruezi5Vv_A8O7rnug
 
   # Information boxes
   info_bars:
@@ -124,7 +128,7 @@ conference:
         color: info
       - name: Tutorial
         color: success
-      - name: Short Talks
+      - name: Papers
         color: secondary
       - name: Panel
         color: info
