@@ -1,8 +1,8 @@
-title: Open 5G Forum - Fall 2021
+title: RitiRAN Workshop - co-located with VTC Fall 2024
 description: >-
-  Open 5G Forum - A virtual event on open and open source software for 5G - Fall 2021 edition (RAN software)
-baseurl: "/open-5g-forum" # the subpath of your site, e.g. /blog
-url: "https://open5g.info" # the base hostname & protocol for your site, e.g. https://example.com
+  First Workshop on Research and Innovation in Testing and Integration for Open Radio Access Networks (RitiRAN) - co-located with VTC Fall 2024
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://ritiran.com" # the base hostname & protocol for your site, e.g. https://example.com
 
 # Build settings
 markdown: kramdown
@@ -97,17 +97,11 @@ conference:
 
   # Information boxes
   info_bars:
-    - title: Welcome to the Open 5G Forum website!
+    - title: Welcome to the RitiRAN Workshop website!
       color: primary
       main_only: true
       text: |
-        The Open 5G Forum is a virtual event on open and open source software for the 5G ecosystem. 
-        The Fall 2021 edition focuses on RAN software, with talks and tutorials on the major
-        open and open source projects for programmable, virtualized, and software-defined RANs.
-
-        The event will include hands-on tutorials that will demonstrate how to use open source 
-        RAN software on [Colosseum](https://northeastern.edu/colosseum/), the world's largest hardware-in-the-loop wireless network 
-        emulator.
+        The First Workshop on Research and Innovation in Testing and Integration for Open Radio Access Networks (RitiRAN), co-located with VTC Fall 2024 in Washington, DC, will bring together researchers from academia, industry, and government with the goal of advancing the state of the art on testing and integration for Open Radio Access Network (Open RAN) systems. We encourage the submission of papers and demos on new results and techniques aimed at achieving true interoperability in Open RAN, including testing of disaggregated RAN components, RAN Intelligent Controllers (RICs), and of data-driven RAN optimization solutions with Artificial Intelligence (AI) and Machine Learning (ML). The workshop represents an opportunity to network and share results across various initiatives in the Open RAN testing research and development space, including the projects that are part of the U.S. National Telecommunications and Information Administration (NTIA) Public Wireless Supply Chain Innovation Fund (PWSCIF) and O-RAN ALLIANCE Open Testing and Integration Centers (OTICs) and PlugFests. The technical paper presentations and demos will be interleaved with one or two keynotes/invited talks from thought leaders in industry and academia, and a panel discussion on challenges and lessons learned in establishing Open RAN testing activities in OTICs and beyond. The participants will also be encouraged to contribute hands-on demonstrations in a dedicated session and to share open-source artifacts. Selected papers will be invited for a fast-track extended submission to a special issue of Elsevier Computer Networks.
 
     # - text: This is just some random content for demonstration purposes.
     #   color: warning
