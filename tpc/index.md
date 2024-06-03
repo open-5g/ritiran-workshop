@@ -17,7 +17,7 @@ layout: home
 - Richard Rouil, NIST
 - Dr. Gudepu Venkateswarlu, IIT Dharwad
 - Balaji Ragothaman, KeySight
-- Lincoln Lavoye, UNH-IOL
+- Lincoln Lavoie, UNH-IOL
 - Salvatore D’Oro, Northeastern University
 - Vijay Shah, George Mason University
 - Syed Rafiul Hussain, Pennsylvania State University
