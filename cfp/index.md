@@ -30,7 +30,7 @@ Papers should contain original material and not be previously published or curre
 Manuscripts must be submitted by using [TrackChair](https://vtc2024f-rr-wks.trackchair.com/track/2305). Prospective authors are encouraged to submit a single PDF file with all fonts embedded, using the IEEE conference proceedings format (use the same PDF formatting guidelines as the main conference). Paper length is limited to five (5) pages (in two-column, 10-point format), all-inclusive (references, figures, etc.). Papers must include author names and affiliations for single-blind peer reviewing by the program committee. Authors of accepted papers are expected to present their papers in-person at the workshop. Accepted papers will be published in the RitiRAN workshop proceedings and will be archived on IEEExplore. 
 
 **Important Dates:**
-- Workshop paper submission due: 1 July 2024
+- Workshop paper submission due: July 19, 2024 (extended and firm)
 - Workshop paper acceptance notification: 22 August 2024
 - Final paper submission: 5 September 2024
 - Workshop: October 7th, 2024 
