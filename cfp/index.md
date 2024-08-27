@@ -31,6 +31,6 @@ Manuscripts must be submitted by using [TrackChair](https://vtc2024f-rr-wks.trac
 
 **Important Dates:**
 - Workshop paper submission due: July 19, 2024 (extended and firm)
-- Workshop paper acceptance notification: 22 August 2024
-- Final paper submission: 5 September 2024
+- Workshop paper acceptance notification: 16 August 2024
+- Final paper submission: 22 August 2024
 - Workshop: October 7th, 2024 

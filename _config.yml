@@ -68,6 +68,8 @@ conference:
         relative_url: /cfp/
       - name: TPC
         relative_url: /tpc/
+      - name: Program
+        relative_url: /program/
       # - name: Speakers
       #   relative_url: /speakers/
       # - name: Registration
@@ -93,8 +95,8 @@ conference:
         relative_url: /cfp/
       - name: TPC
         relative_url: /tpc/
-      # - name: Program
-      #   relative_url: /program/
+      - name: Program
+        relative_url: /program/
       # - name: Registration
       #   disabled: true
       #   absolute_url: https://northeastern.zoom.us/meeting/register/tJUqce2tqzkiGNTo_xYruezi5Vv_A8O7rnug
