@@ -31,7 +31,7 @@ The program for the workshop includes 9 paper presentations, a keynote, and a pa
 	- **Consistent and Repeatable Testing of O-RAN Distributed Unit (O-DU) across Continents**
 		- Van Tuan Ngo, Ngo Van Mao, Binbin Chen, Singapore University of Technology and Design; Gabriele Gemmi, Eduardo Baena, Michele Polese, Tommaso Melodia, Northeastern University; William Chien, Synergy Design Tech; Tony Q.S. Quek, Singapore University of Technology and Design
 - 15:15-16:00 **Session 5: Panel**:
-	- Panel on Open RAN testing and integration. Panelists will be announced soon.
+	- Panel on Open RAN testing and integration, with N. K. Shankaranarayanan, Rutgers University WINLAB; Alan Gatherer, Cirrus360; and Binbin Chen, Singapore University of Technology and Design.
 
 
 
