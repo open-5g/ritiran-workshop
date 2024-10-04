@@ -23,7 +23,7 @@ The program for the workshop includes 9 paper presentations, a keynote, and a pa
 - 12:10-12:30 **NTIA Public Wireless Supply Chain Innovation Fund Update**
 	- Brian Gomez, NTIA
 - 12:30-14:00 **Lunch Break**
-- 14:00-15:30 **Session 4: Testing Experiences**:
+- 14:00-15:30 **Session 4: Testing Experiences** (Chair: Alan Gatherer):
 	- **Consistent and Repeatable Testing of mMIMO O-RU across labs: A Japan-Singapore Experience** 
 		- Nguyen Thanh Tam, Ngo Van Mao, Binbin Chen, Singapore University of Technology and Design; Mitsuhiro Kuchitsu, Rakuten Mobile, Inc.; Serena Wai, Seitaro Kawai, Kenya Suzuki, Eng Wei Koo, Keysight Technologies; Tony Q.S. Quek, Singapore University of Technology and Design
 	- **How Critical is Site-Specific RAN Optimization? 5G Open-RAN Uplink Air Interface Performance Test and Optimization from Macro-Cell CIR Data**
