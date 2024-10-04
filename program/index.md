@@ -7,7 +7,7 @@ The program for the workshop includes 9 paper presentations, a keynote, and a pa
 
 - 09:00-09:45 **Session 1: Keynote**
 	- Eng Wei Koo, Keysight, reporting on the latest developments within O-RAN TIFG (title to be announced)
-- 09:45-10:30 **Session 2: Energy**: 
+- 09:45-10:30 **Session 2: Energy** (Chair: Tim O'Shea): 
 	- **POET: A Platform for O-RAN Energy Efficiency Testing**
 		- N Shankaranarayanan, Rutgers University WINLAB; ZHUOHUAN LI, Ivan Seskar, Rutgers University; Prasanthi Maddala, Rutgers University WINLAB; Sarat Puthenpura, Alexandru Stancu, Open Networking Foundation; Anurag Agarwal, Cognizant
 	- **Energy Saving and Traffic Steering Use Case and Testing by O-RAN RIC xApp/rApp Multi-vendor Interoperability**
