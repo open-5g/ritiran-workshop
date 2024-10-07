@@ -4,6 +4,8 @@ layout: home
 
 The program for the workshop includes 9 paper presentations, a keynote, and a panel.
 
+Room: Oceanic B, Ronald Reagan Building and International Trade Center
+
 
 - 09:00-09:45 **Session 1: Keynote**
 	- Eng Wei Koo, Keysight, reporting on the latest developments within O-RAN TIFG (title to be announced)
