@@ -15,7 +15,7 @@ Room: Oceanic B, Ronald Reagan Building and International Trade Center
 	- **Energy Saving and Traffic Steering Use Case and Testing by O-RAN RIC xApp/rApp Multi-vendor Interoperability**
 		- Arda Akman, Juniper Networks; Pablo Oliver, Vodafone; Michael Jones, Keysight Technologies; Peyman Tehrani, AirHop Communications; Marcin Hoffmann, Rimedo Labs; Jia Li, Keysight Technologies
 - 10:30-11:00 **Coffee Break**
-- 11:00-12:10 **Session 3: Systems for Open RAN Testing**:
+- 11:00-12:10 **Session 3: Systems for Open RAN Testing** (Chair: Binbin Chen):
 	- **Testing Open RAN in the Cloud (TORC)**
 		- Sridhar Rajagopal, John Baker, Mavenir Systems; Ramu Akula, Amazon
 	- **Open6G OTIC: A Blueprint for Programmable O-RAN and 3GPP Testing Infrastructure**
