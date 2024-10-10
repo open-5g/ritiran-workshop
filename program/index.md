@@ -8,7 +8,7 @@ Room: Oceanic B, Ronald Reagan Building and International Trade Center
 
 
 - 09:00-09:45 **Session 1: Keynote**
-	- Eng Wei Koo, Keysight, Keysight Director of RAN Standards and Technology, O-RAN TIFG and MVP-C co-chair, reporting on the latest developments within O-RAN TIFG. (Slides)[/assets/pdf/koo-keynote.pdf]
+	- Eng Wei Koo, Keysight, Keysight Director of RAN Standards and Technology, O-RAN TIFG and MVP-C co-chair, reporting on the latest developments within O-RAN TIFG. [Slides](/assets/pdf/koo-keynote.pdf)
 - 09:45-10:30 **Session 2: Energy** (Chair: Tim O'Shea): 
 	- **POET: A Platform for O-RAN Energy Efficiency Testing**
 		- N Shankaranarayanan, Rutgers University WINLAB; ZHUOHUAN LI, Ivan Seskar, Rutgers University; Prasanthi Maddala, Rutgers University WINLAB; Sarat Puthenpura, Alexandru Stancu, Open Networking Foundation; Anurag Agarwal, Cognizant
@@ -20,7 +20,7 @@ Room: Oceanic B, Ronald Reagan Building and International Trade Center
 		- Sridhar Rajagopal, John Baker, Mavenir Systems; Ramu Akula, Amazon
 	- **Open6G OTIC: A Blueprint for Programmable O-RAN and 3GPP Testing Infrastructure**
 		- Gabriele Gemmi, Michele Polese, Pedram Johari, Stefano Maxenti, Northeastern University; Michael Seltser, Cerbo IO; Tommaso Melodia, Northeastern University
-	- **Directed Testing of ORAN using a Partially Specified Declarative Digital Twin** (Slides)[/assets/pdf/cirrus360.pdf]
+	- **Directed Testing of ORAN using a Partially Specified Declarative Digital Twin** [Slides](/assets/pdf/cirrus360.pdf)
 		- Alan Gatherer, Chaitali Sengupta, Sudipta Sen, Jeff Reed, Cirrus360 
 - 12:10-12:30 **NTIA Public Wireless Supply Chain Innovation Fund Update**
 	- Brian Gomez, NTIA
