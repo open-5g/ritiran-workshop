@@ -12,7 +12,7 @@ Room: Oceanic B, Ronald Reagan Building and International Trade Center
 - 09:45-10:30 **Session 2: Energy** (Chair: Tim O'Shea): 
 	- **POET: A Platform for O-RAN Energy Efficiency Testing**
 		- N Shankaranarayanan, Rutgers University WINLAB; ZHUOHUAN LI, Ivan Seskar, Rutgers University; Prasanthi Maddala, Rutgers University WINLAB; Sarat Puthenpura, Alexandru Stancu, Open Networking Foundation; Anurag Agarwal, Cognizant
-	- **Energy Saving and Traffic Steering Use Case and Testing by O-RAN RIC xApp/rApp Multi-vendor Interoperability**
+	- **Energy Saving and Traffic Steering Use Case and Testing by O-RAN RIC xApp/rApp Multi-vendor Interoperability** [Slides](/assets/pdf/keysight-energy.pdf)
 		- Arda Akman, Juniper Networks; Pablo Oliver, Vodafone; Michael Jones, Keysight Technologies; Peyman Tehrani, AirHop Communications; Marcin Hoffmann, Rimedo Labs; Jia Li, Keysight Technologies
 - 10:30-11:00 **Coffee Break**
 - 11:00-12:10 **Session 3: Systems for Open RAN Testing** (Chair: Binbin Chen):
